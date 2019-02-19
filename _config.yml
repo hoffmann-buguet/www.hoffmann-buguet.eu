@@ -26,3 +26,6 @@ reveal_path: reveal.js/
 markdown: redcarpet
 # highlighter: pygments
 markdown_ext: ignoreme
+
+# Loop the presentation
+loop: true
