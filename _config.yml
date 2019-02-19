@@ -1,8 +1,8 @@
 # Your presentation title
-title: Oliver Hoffmann
+title: Jekyll and Reveal.js
 
 # The Reveal theme
-reveal_theme: white.css
+reveal_theme: black.css
 
 # The Reveal transition
 reveal_transition: default
@@ -14,9 +14,7 @@ reveal_theme_path: reveal.js/css/theme/
 reveal_notes_server: false
 
 # Additional reveal.js options
-reveal_options:
-    - 'width: "320px"'
-    - 'height: "320px"'
+reveal_options: 
 
 # Additional reveal.js dependencies
 reveal_dependencies: 
@@ -28,4 +26,3 @@ reveal_path: reveal.js/
 markdown: redcarpet
 # highlighter: pygments
 markdown_ext: ignoreme
-
